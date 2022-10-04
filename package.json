@@ -16,6 +16,7 @@
   },
   "files": [
     "build",
+    "rollup.config.js",
     "README.md"
   ],
   "keywords": [
