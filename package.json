@@ -14,11 +14,6 @@
     "type": "git",
     "url": "https://github.com/SuperBigBang/usetimeout-react-hook.git"
   },
-  "files": [
-    "build",
-    "rollup.config.js",
-    "README.md"
-  ],
   "keywords": [
     "react",
     "hooks",
